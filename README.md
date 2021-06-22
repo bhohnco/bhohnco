@@ -10,9 +10,24 @@
 * :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
-- [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhohnco)](https://github.com/bhohnco/github-readme-stats)
 
 
+<a href="https://github.com/bhohnco/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/bhohnco/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/bhohnco/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhohnco&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/bhohnco/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhohnco&repo=bhohnco.github.io&theme=material-palenight" />
+</a>
 
 
 
