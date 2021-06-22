@@ -12,7 +12,7 @@
 <br />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bhohnco&theme=highcontrast&show_icons=true&count_private=true)
 <br />
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact)
+
 
 
 
@@ -50,5 +50,6 @@
     </tr>
 </table>
 <br />
-![Your Repository's Stats](https://camo.githubusercontent.com/732775f020ff1d24b03c03dc18d9c8ba2254ca570c90390b495f9b837df4d23f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62686f686e636f267468656d653d68696768636f6e7472617374)
+
+![Your Repository's Stats]![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact)
 <!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=bhohnco) -- >
