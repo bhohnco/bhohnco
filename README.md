@@ -10,7 +10,7 @@
 * :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bhohnco&theme=highcontrast&show_icons=true&count_private=true)
+![Your Repository's Stats](https://camo.githubusercontent.com/1fbef91df8190a303e8e0da9c4b9cfa0a2221b07f9de4613c865d0080aa8f540/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62686f686e636f267468656d653d68696768636f6e74726173742673686f775f69636f6e733d74727565)
 <br />
 
 
