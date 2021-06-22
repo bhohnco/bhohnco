@@ -10,7 +10,9 @@
 * :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&theme=highcontrast)
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&theme=blue-green)
+
+
 #### I'm currently learning:
 * :atom_symbol: &nbsp; Redux
 #### Technologies:
@@ -43,5 +45,5 @@
     </tr>
 </table>
 <br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&show_icons=true&theme=highcontrast)
-<!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=pcmueller) -- >
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&theme=blue-green)
+<!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=bhohnco) -- >
