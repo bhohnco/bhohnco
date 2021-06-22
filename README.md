@@ -17,6 +17,7 @@
 
 
 
+
 #### I'm currently learning:
 * :atom_symbol: &nbsp; Redux
 #### Technologies:
