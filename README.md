@@ -22,6 +22,7 @@
 
 #### I'm currently learning:
 * :atom_symbol: &nbsp; Redux
+* :atom_symbol: &nbsp; React Hooks
 #### Technologies:
 <table>
     <tr>
