@@ -7,7 +7,7 @@
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/bryanhohn)
 * :mailbox: &nbsp; bryanhohn13@gmail.com
 ####  Education:
-* :male-technologist: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
+* :male_technologist: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&theme=highcontrast)
