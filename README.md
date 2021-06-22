@@ -11,6 +11,7 @@
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=bhohnco&theme=highcontrast&show_icons=true&count_private=true)
+<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact)
 
 
