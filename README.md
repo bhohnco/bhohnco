@@ -13,24 +13,11 @@
 
 
 <a href="https://github.com/bhohnco/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhohnco&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Bryan's github stats" />
 </a>
 <a href="https://github.com/bhohnco/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact&theme=highcontrast" />
 </a>
-
-<a href="https://github.com/bhohnco/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhohnco&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/bhohnco/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhohnco&repo=bhohnco.github.io&theme=material-palenight" />
-</a>
-
-
-
 
 
 #### I'm currently learning:
@@ -66,6 +53,5 @@
 </table>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhohnco&layout=compact)](https://github.com/bhohnco/github-readme-stats)
 
-<!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=bhohnco) -- >
+![Profile View Counter](https://komarev.com/ghpvc/?username=bhohnco) 
