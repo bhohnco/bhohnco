@@ -20,8 +20,7 @@
 </a>
 
 
-#### I'm currently learning:
- Python, Django, Node
+#### I'm currently learning: Python, Django, Node
 
 #### Technologies:
 <table>
