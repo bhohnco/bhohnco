@@ -8,7 +8,7 @@
 * :mailbox: &nbsp; bryanhohn13@gmail.com
 ####  Education:
 * :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design
-* :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
+* :mortar_board: &nbsp; Bachelor's Degree from Illinois State University 
 <br />
 
 
