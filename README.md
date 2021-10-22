@@ -7,7 +7,7 @@
 * 🖇 &nbsp; [LinkedIn](https://www.linkedin.com/in/bryanhohn)
 * :mailbox: &nbsp; bryanhohn13@gmail.com
 ####  Education:
-* :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
+* :desktop_computer: &nbsp; Front-End Engineering Certification from Turing School of Software & Design
 * :mortar_board: &nbsp; Bachelor's Degree in Recreation Management from Illinois State University 
 <br />
 
