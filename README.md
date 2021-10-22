@@ -21,8 +21,8 @@
 
 
 #### I'm currently learning:
-* :atom_symbol: &nbsp; Redux
-* :atom_symbol: &nbsp; React Hooks
+ Python, Django, Node
+
 #### Technologies:
 <table>
     <tr>
